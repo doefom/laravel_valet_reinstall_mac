@@ -20,3 +20,5 @@ rm -rf $(which valet)
 composer global require laravel/valet
 valet install
 ```
+
+After successfully installing Laravel Valet, you can follow the official Documentation (https://laravel.com/docs/9.x/valet) for more information.
