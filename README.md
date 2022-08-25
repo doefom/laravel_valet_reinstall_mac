@@ -1,4 +1,4 @@
-# Laravel Valet Reinstall Script (MacOS)
+# Laravel Valet Reinstall Script (macOS)
 
 Reinstall [Laravel Valet](https://laravel.com/docs/9.x/valet) with one single script. This is especially usefull if you for example stream from time to time and want to use Valet with multiple users on your Mac (one for private projects, one for streaming projects).
 
