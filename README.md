@@ -8,6 +8,8 @@ To use Valet for the current user just run this script and you're done. You may 
 
 You need to have homebrew installed for this script to work.
 
+### The script
+
 ```bash
 # Chown homebrew directory for current user.
 sudo chown -R $(whoami) /opt/homebrew
@@ -22,5 +24,7 @@ rm -r $(which valet)
 composer global require laravel/valet
 valet install
 ```
+
+### Next steps
 
 After successfully installing Laravel Valet, you can follow the [official Documentation](https://laravel.com/docs/9.x/valet) for more information.
