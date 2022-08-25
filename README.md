@@ -11,7 +11,7 @@ You need to have homebrew installed for this script to work.
 ### The script
 
 ```bash
-# Chown homebrew directory for current user.
+# Chown homebrew directory for current user
 sudo chown -R $(whoami) /opt/homebrew
 
 # Uninstall Laravel Valet
