@@ -1,4 +1,4 @@
-# Chown homebrew directory for current user.
+# Chown homebrew directory for current user
 sudo chown -R $(whoami) /opt/homebrew
 
 # Uninstall Laravel Valet
