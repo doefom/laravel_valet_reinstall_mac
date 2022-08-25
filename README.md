@@ -6,7 +6,7 @@ To use Valet with the current user just run this script and you're done. You may
 
 ### Important note
 
-You need to have homebrew installed for this script to work.
+You need to have [homebrew](https://brew.sh/index_de) and [composer](https://getcomposer.org/) installed for this script to work.
 
 ### The script
 
